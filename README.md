@@ -2,6 +2,10 @@
 
 This project implements an AI agent to play the Flappy Bird game using the NEAT (NeuroEvolution of Augmenting Topologies) algorithm. The goal of the AI agent is to learn to navigate the bird through the gaps between pipes without colliding with them.
 
+## Demo
+
+![alt-text](https://github.com/trevorsaudi/Flappy-birds-with-Neural-networks/blob/master/flappy.mp4)
+
 ## Dependencies
 
 To run this project, you need to have the following dependencies installed:

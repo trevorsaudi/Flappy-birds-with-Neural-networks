@@ -4,6 +4,8 @@ This project implements an AI agent to play the Flappy Bird game using the NEAT 
 
 ## Demo
 
+In the demo below, the neural network generate a couple of flappybirds that die in the first generation. The second generation of flappy birds adapt from the previous generation mistakes and fly better.
+
 ![alt_text](https://github.com/trevorsaudi/Flappy-birds-with-Neural-networks/blob/master/flappy.gif "Demo")
 
 ## Dependencies
